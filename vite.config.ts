@@ -12,4 +12,5 @@ export default defineConfig({
     environment: 'jsdom',
     setupFiles: ['./src/setupTests.ts'],
   },
+  base: process.env.NODE_ENV === 'production' ? '/1527977-six-cities-3/' : '/',
 });

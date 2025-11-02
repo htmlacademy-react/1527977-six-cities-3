@@ -1,0 +1,35 @@
+[33mfa74123[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update index.tsx
+[33m4795e06[m Update index.html
+[33m34b1ba3[m Update index.html
+[33m806b19b[m Update vite.config.ts
+[33mcb3b40a[m Update 404.html
+[33md6521bd[m Update app.tsx
+[33m3591ea2[m Update app.tsx
+[33m3092561[m Update deploy.yml
+[33mf358e20[m Update app.tsx
+[33mc88fee8[m Update vite.config.ts
+[33ma3d80b1[m Update deploy.yml
+[33m31de4d9[m Create 404.html
+[33m1e6b538[m Update vite.config.ts
+[33ma0d695d[m Update vite.config.ts
+[33m0fdbefa[m Update vite.config.ts
+[33mf096d19[m Update index.html
+[33m7593a60[m Update vite.config.ts
+[33m237b649[m Update deploy.yml
+[33mb3a7d2a[m Update deploy.yml
+[33mbbaefb0[m Update .gitignore
+[33m0438d53[m Create deploy.yml
+[33m3856c28[m Delete .github/workflows directory
+[33m5e7dd69[m Update vite.config.ts
+[33m594062f[m Create deploy.yml
+[33m25cdaab[m Delete .github/workflows directory
+[33m3191db4[m Add GitHub Pages deployment workflow
+[33m3bf40e6[m Delete deploy-workflow.yml
+[33m047f794[m Update vite.config.ts
+[33m02c5db2[m Update deploy-workflow.yml
+[33m75930df[m Update deploy-workflow.yml
+[33mae11140[m Add GitHub Pages deployment
+[33m1300959[m Delete Deploy React App to GitHub Pages
+[33maf91f3f[m Update Deploy React App to GitHub Pages
+[33m1250a8f[m Merge branch 'htmlacademy-react:master' into master
+[33m1866637[m Add GitHub Pages deployment workflow
